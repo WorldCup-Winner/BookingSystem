@@ -7,7 +7,7 @@ You need to have a wallet with testnet ethereum on the Goerli network
 [Get free Goerli faucet](https://goerlifaucet.com/)
 
 ## Architecture : 
-![alt text](https://github.com/Frostbite22/DecentralizedCoursesBookingSystem/blob/main/architecture.png?raw=true)
+![alt text](https://github.com/WorldCup-Winner/BookingSystem/blob/main/architecture.png?raw=true)
 
 
 ## Design Patterns :
@@ -16,7 +16,7 @@ to create the student and Session objects in Factory Class
 ### Method template design pattern
 thus creating an abstract interface for the student and use it in the Factory ckass to create the student 
 
-![alt text](https://github.com/Frostbite22/DecentralizedCoursesBookingSystem/blob/main/course_system_white.png?raw=true)
+![alt text](https://github.com/WorldCup-Winner/BookingSystem/blob/main/course_system_white.png?raw=true)
 
 
 ## Setting up the project 
@@ -71,8 +71,3 @@ npx hardhat balance --account account_public_key
 ### Instructions 
 For the app users, connect your Wallet with an account that have GoerliETH on the Goerli testnet network [get GoerliETH for free](https://goerlifaucet.com/), create an account if you are a user and get access to the plateform. <br>
 If you are an admin, you should connect with your admin account already written on the blockchain.
-### Admin interface
-https://frostbite22.github.io/DecentralizedCoursesBookingSystemFrontAdmin
-
-### Student interface
-https://frostbite22.github.io/DecentralizedCoursesBookingSystemFront
